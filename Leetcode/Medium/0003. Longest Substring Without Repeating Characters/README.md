@@ -55,9 +55,9 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 | --- | --- |
 | Status | Accepted |
 | Language | Python3 |
-| Runtime | 220 ms (17.87%) |
-| Memory | 20.1 MB (13.95%) |
-| Submission ID | 2112796615 |
+| Runtime | 214 ms (22.57%) |
+| Memory | 20 MB (14.56%) |
+| Submission ID | 2114034918 |
 
 ---
 
