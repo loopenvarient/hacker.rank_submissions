@@ -6,10 +6,10 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 
 | Platform | Solved |
 | --- | ---: |
-| LeetCode | 7 |
+| LeetCode | 8 |
 | 프로그래머스 | 0 |
 | HackerRank | 9 |
-| Total | 16 |
+| Total | 17 |
 
 ## Platforms
 
