@@ -50,7 +50,7 @@ kangaroo has the following parameter(s):
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 30/30 passed |
-| Submission ID | 480866008 |
+| Submission ID | 480938758 |
 
 ---
 
